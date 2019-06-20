@@ -14,7 +14,7 @@ to use:
  10 click on 'Save Model' and 'Build Model'.  
  11 navigate to 'Code' in the toolbar above.  
  12 replace 'index.js' code with the code in the git 'index.js'.  
- 13 Replace date with your own ORD date.  
+ 13 Replace '31 December 2099' on line 15 with your own ORD date.  
  14 click on 'Save' and 'Deploy'.  
  15 run in test enviroment to see that it works.  
  16 Make sure you don't have any conflicting skills with the invocation name 'how many days'.  

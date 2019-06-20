@@ -12,7 +12,7 @@ const OrdIntentHandler = {
     },
     handle(handlerInput) {
         return handlerInput.responseBuilder
-            .speak("You have "+daysUntill(new Date("31 December 2099"))+" days to oh r dee").getResponse();
+            .speak("You have "+daysUntill(new Date("31 December 2099"))+" days to oh are dee").getResponse();
     }
 };
 const HelpIntentHandler = {
